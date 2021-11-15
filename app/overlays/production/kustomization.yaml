@@ -7,4 +7,4 @@ replicas:
   count: 5
 
 resources:
-- ../base
+- ../../base
